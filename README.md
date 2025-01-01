@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust and webdev
 - 💞️ I’m looking to collaborate on for now nothing
 - 📫 How to reach me use my x handel which is @shyzer000
-- 😄 Pronouns: SHY , SUJI
+- 😄 Pronouns: HE/HIM
 - ⚡ Fun fact: I AM VERY NICE ACUTALLY VERY VERY VERY NICE 
 
 <!---
